@@ -1,0 +1,7 @@
+dataset/
+venv/
+__pycache__/
+*.pth
+.gradio/
+exemplos_jpg/
+*.zip
