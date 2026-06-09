@@ -152,7 +152,7 @@ projeto-acv/
 
 ## 🎥 Demonstração
 
-Vídeo de apresentação: *(link do YouTube aqui)*
+Vídeo de apresentação: *[Vídeo de apresentação aqui](https://youtu.be/k3jZnoR3QjQ)*
 
 ---
 
